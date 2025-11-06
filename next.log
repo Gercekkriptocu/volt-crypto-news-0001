@@ -1,0 +1,1012 @@
+   ▲ Next.js 15.3.4
+   - Local:        http://localhost:3000
+   - Network:      http://169.254.0.21:3000
+
+ ✓ Starting...
+ ✓ Ready in 539ms
+(node:10840) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","host":"localhost:3000","user-agent":"curl/8.5.0","x-forwarded-for":"::1","x-forwarded-host":"localhost:3000","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/","referrerPolicy":"","url":"http://localhost:3000/"},"requestId":"ddd65d8a-098e-4dee-bddd-cee26ec017c6","timestamp":"2025-11-06 22:40:24"}
+Error loading user topics: ReferenceError: localStorage is not defined
+    at <unknown> (.next/server/app/page.js:325:4552)
+    at us (.next/server/app/page.js:325:4694)
+Error loading custom keywords: ReferenceError: localStorage is not defined
+    at <unknown> (.next/server/app/page.js:325:4716)
+    at us (.next/server/app/page.js:325:4870)
+{"level":"info","request":{"cookies":{},"headers":{"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=0, i","referer":"https://ohara.ai/","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"iframe","sec-fetch-mode":"navigate","sec-fetch-site":"cross-site","sec-fetch-storage-access":"none","sec-gpc":"1","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"a13ff92305f2eea24f9473d8e766728a/3541715867197468303","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/","referrerPolicy":"","url":"http://localhost:3000/?t=1762468824735"},"requestId":"296bdb88-0b76-4c46-8c6e-fa3960981321","timestamp":"2025-11-06 22:40:24"}
+Error loading user topics: ReferenceError: localStorage is not defined
+    at <unknown> (.next/server/app/page.js:325:4552)
+    at us (.next/server/app/page.js:325:4694)
+Error loading custom keywords: ReferenceError: localStorage is not defined
+    at <unknown> (.next/server/app/page.js:325:4716)
+    at us (.next/server/app/page.js:325:4870)
+{"level":"info","request":{"cookies":{},"headers":{"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=0, i","referer":"https://ohara.ai/","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"iframe","sec-fetch-mode":"navigate","sec-fetch-site":"cross-site","sec-fetch-storage-access":"none","sec-gpc":"1","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"e98f9e557b589d0e4f9473d8e76673d2/6759341114542270560","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/","referrerPolicy":"","url":"http://localhost:3000/?t=1762468825770"},"requestId":"01fdda13-2b2f-4105-949f-158e9ce43bb6","timestamp":"2025-11-06 22:40:25"}
+Error loading user topics: ReferenceError: localStorage is not defined
+    at <unknown> (.next/server/app/page.js:325:4552)
+    at us (.next/server/app/page.js:325:4694)
+Error loading custom keywords: ReferenceError: localStorage is not defined
+    at <unknown> (.next/server/app/page.js:325:4716)
+    at us (.next/server/app/page.js:325:4870)
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"64c59d53575cc1f24f9473d8e766759a/9237505739777613748","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/api/telegram/trigger","referrerPolicy":"","url":"http://localhost:3000/api/telegram/trigger"},"requestId":"c888e80f-a14e-4ebb-98e4-d521decf7e0d","timestamp":"2025-11-06 22:40:28"}
+🔗 Triggering auto-share from: https://3000-invfvdb3yxb2qa93qf47j.e2b.app
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"109","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"73fcd87db32610e04f9473d8e7667cfd/12891824041161765848","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"b9cc94f9-f5e4-4809-8519-cfc0bdfd673c","timestamp":"2025-11-06 22:40:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"267","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"5227b0bbd1e6558c4f9473d8e7667460/16409507761991510005","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"a4bd9b0e-b5e4-4ed5-8a35-30c2756a34ca","timestamp":"2025-11-06 22:40:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"270","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"ec6f619b9f87016c4f9473d8e7667047/2778841122301673081","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"28fee457-49e0-4382-95ba-c22e55619093","timestamp":"2025-11-06 22:40:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"254","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"44b07161165bcda04f9473d8e76672bb/8632082049183637119","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"6c955ec5-b428-4d92-b3ee-1cce50fdc817","timestamp":"2025-11-06 22:40:28"}
+{"level":"info","response":{"pathname":"/","requestId":"01fdda13-2b2f-4105-949f-158e9ce43bb6","status":200,"timestamp":"2025-11-06T22:40:28.067Z","url":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770"},"timestamp":"2025-11-06 22:40:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"67b2474a46cdc30e4f9473d8e7667a1e/1220539093548162664","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/api/news","referrerPolicy":"","url":"http://localhost:3000/api/news"},"requestId":"07959828-95ad-4ffd-a413-1b91e0ef39b4","timestamp":"2025-11-06 22:40:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"285","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"7af84e104e6129454f9473d8e7667bc3/14705709358496161947","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"4376c856-98ef-40b7-918c-42a28a3a849d","timestamp":"2025-11-06 22:40:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"270","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"079a11f53ce067404f9473d8e76678e4/6772582562367520656","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"301a615b-4402-4141-8f80-351ef1d5177a","timestamp":"2025-11-06 22:40:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"268","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"7f60ce7301b441d54f9473d8e7667326/1073502565513586816","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"5b732f31-1331-48bb-89c0-f24150ce10b7","timestamp":"2025-11-06 22:40:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"br, gzip, deflate","accept-language":"*","cache-control":"no-cache","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","pragma":"no-cache","sec-fetch-mode":"cors","user-agent":"node","via":"1.1 google","x-cloud-trace-context":"693442f582173f0add4e40f4e4decf1b/4862392553844742383","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/api/telegram/auto-share","referrerPolicy":"","url":"http://localhost:3000/api/telegram/auto-share"},"requestId":"74864f6d-0781-4b90-b521-b5ed4deb9568","timestamp":"2025-11-06 22:40:28"}
+
+🌐 Telegram Auto-Share API Called
+   Method: GET
+   Time: 06.11.2025 22:40:28
+
+========== TELEGRAM AUTO-SHARE START ==========
+🔍 Checking for new news to share...
+⏰ Time: 2025-11-06T22:40:28.644Z
+📡 Fetching news from CoinDesk...
+Error fetching Tree of Alpha news: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching AggrNews: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching Binance listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching OKX listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching Upbit listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching Bithumb listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+📰 Fetched 0 total news items
+⚠️ No news found to share
+========== TELEGRAM AUTO-SHARE END (NO NEWS) ==========
+
+
+📊 API Response: {
+  "success": true,
+  "shared": 0,
+  "errors": 0,
+  "totalShared": 0,
+  "details": "No news available",
+  "message": "0 yeni haber Telegram'a paylaşıldı",
+  "timestamp": "2025-11-06T22:40:28.657Z"
+}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"94aca2abe1d5edc54f9473d8e7667cbf/12097939960059799194","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/api/telegram/trigger","referrerPolicy":"","url":"http://localhost:3000/api/telegram/trigger"},"requestId":"be288194-294f-42ab-af8d-93360ec41301","timestamp":"2025-11-06 22:40:28"}
+🔗 Triggering auto-share from: https://3000-invfvdb3yxb2qa93qf47j.e2b.app
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"254","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"aed127638fa8b8f64f9473d8e76679e0/288110682885808770","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"c1d6347e-e97b-494c-8604-8d258b8b7b9d","timestamp":"2025-11-06 22:40:28"}
+Error fetching RSS https://www.bloomberg.com/crypto/rss.xml: Error: Failed to fetch RSS: https://www.bloomberg.com/crypto/rss.xml
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","if-modified-since":"Thu, 06 Nov 2025 21:54:23 GMT","if-none-match":"W/\"3ee-19a5b29e4ed\"","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"a05f13a95ce3f4ce4f9473d8e7667238/2380299681134065062","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/.well-known/farcaster.json","referrerPolicy":"","url":"http://localhost:3000/.well-known/farcaster.json"},"requestId":"678aa1c0-763c-46e3-9d2d-eff78cd46a03","timestamp":"2025-11-06 22:40:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"109","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"b524e04867109cc14f9473d8e7667f59/14652135731549659287","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"5bc2373a-6e96-42d6-bc02-9360198ddf01","timestamp":"2025-11-06 22:40:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"267","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"a590467ac8244c364f9473d8e7667c7a/13168425448398276271","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"8218747f-71dd-44e6-aa15-859a2fd2702c","timestamp":"2025-11-06 22:40:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"285","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"a533405c994cef114f9473d8e76677b1/1196772551692804171","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"134a8c0c-51da-4895-aa0c-f98cf9904682","timestamp":"2025-11-06 22:40:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"br, gzip, deflate","accept-language":"*","cache-control":"no-cache","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","pragma":"no-cache","sec-fetch-mode":"cors","user-agent":"node","via":"1.1 google","x-cloud-trace-context":"a05f8fe57b23a07ecfba6ff22a033eb4/12254476368287464717","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/api/telegram/auto-share","referrerPolicy":"","url":"http://localhost:3000/api/telegram/auto-share"},"requestId":"57eefb60-414e-4068-8eaa-913c3f55d0f9","timestamp":"2025-11-06 22:40:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"270","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"0f99d8e35745f7594f9473d8e76674d2/11475510300365068368","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"b0202d79-4836-4654-b791-3c5e81db4e34","timestamp":"2025-11-06 22:40:28"}
+
+🌐 Telegram Auto-Share API Called
+   Method: GET
+   Time: 06.11.2025 22:40:28
+
+========== TELEGRAM AUTO-SHARE START ==========
+🔍 Checking for new news to share...
+⏰ Time: 2025-11-06T22:40:28.914Z
+📡 Fetching news from CoinDesk...
+Error fetching Tree of Alpha news: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching AggrNews: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching Binance listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching OKX listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching Upbit listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching Bithumb listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+📰 Fetched 0 total news items
+⚠️ No news found to share
+========== TELEGRAM AUTO-SHARE END (NO NEWS) ==========
+
+
+📊 API Response: {
+  "success": true,
+  "shared": 0,
+  "errors": 0,
+  "totalShared": 0,
+  "details": "No news available",
+  "message": "0 yeni haber Telegram'a paylaşıldı",
+  "timestamp": "2025-11-06T22:40:28.922Z"
+}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"268","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"e3adfb573859a04d4f9473d8e7667f14/971446210138233019","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"426ae395-08ac-4b28-9c07-d8fcc0917339","timestamp":"2025-11-06 22:40:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"270","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"6a045ea4dc0ac71c4f9473d8e7667956/15057082720550444427","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"449500ee-27fb-41b6-9b54-63f6d6bcc249","timestamp":"2025-11-06 22:40:28"}
+Error fetching RSS https://nitter.poast.org/GercekKriptocuu/rss: Error: Failed to fetch RSS: https://nitter.poast.org/GercekKriptocuu/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/voltnewsdotxyz/rss: Error: Failed to fetch RSS: https://nitter.poast.org/voltnewsdotxyz/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/ICODrops/rss: Error: Failed to fetch RSS: https://nitter.poast.org/ICODrops/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/ICO_Analytics/rss: Error: Failed to fetch RSS: https://nitter.poast.org/ICO_Analytics/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","if-modified-since":"Thu, 06 Nov 2025 21:54:23 GMT","if-none-match":"W/\"3ee-19a5b29e4ed\"","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"6829aba4a06307254f9473d8e7667b28/4797178766616128876","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/.well-known/farcaster.json","referrerPolicy":"","url":"http://localhost:3000/.well-known/farcaster.json"},"requestId":"b0691865-8ae1-4583-828c-362472fd3a87","timestamp":"2025-11-06 22:40:29"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"36d946f7a09185c74f9473d8e76671d8/1294055300230905408","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/api/news","referrerPolicy":"","url":"http://localhost:3000/api/news"},"requestId":"e5983bdc-a963-4185-a853-3d12d44254b8","timestamp":"2025-11-06 22:40:30"}
+Error fetching RSS https://www.bloomberg.com/crypto/rss.xml: Error: Failed to fetch RSS: https://www.bloomberg.com/crypto/rss.xml
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"1771","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"4408d95fce44fbc79ba2e91f8f096ff1/7723027592141622139","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"12f74572-d79d-460e-8a53-9f0ad36ba6d0","timestamp":"2025-11-06 22:40:30"}
+Error fetching RSS https://nitter.poast.org/voltnewsdotxyz/rss: Error: Failed to fetch RSS: https://nitter.poast.org/voltnewsdotxyz/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/ICODrops/rss: Error: Failed to fetch RSS: https://nitter.poast.org/ICODrops/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/GercekKriptocuu/rss: Error: Failed to fetch RSS: https://nitter.poast.org/GercekKriptocuu/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/ICO_Analytics/rss: Error: Failed to fetch RSS: https://nitter.poast.org/ICO_Analytics/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"1771","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"6c0cbbaba56a41ec9ba2e91f8f096c5e/4820595875443119766","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"7de026c4-041d-4f3a-91c5-eed805b4390e","timestamp":"2025-11-06 22:40:32"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"254","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"faf34225ccb5b3b009960fe48a9d439d/16236754867395078832","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"4719c411-ee98-42ac-97fb-50f9d8f9cb5e","timestamp":"2025-11-06 22:40:58"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"30ab9eee255ddd878e5116054dc55230/3248041437512462234","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/api/telegram/trigger","referrerPolicy":"","url":"http://localhost:3000/api/telegram/trigger"},"requestId":"78e255c4-58a3-41b4-9a84-87c2aadcd3a8","timestamp":"2025-11-06 22:41:28"}
+🔗 Triggering auto-share from: https://3000-invfvdb3yxb2qa93qf47j.e2b.app
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"254","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"9d72270c2733270a8e5116054dc5590b/4172089839236767392","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"62073b40-bb9a-4cf1-b2ad-977dc2f3337e","timestamp":"2025-11-06 22:41:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"109","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"c2c4bb2257f17ace8e5116054dc556c1/9217431788814495766","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"b842638c-5dba-454d-9db2-178c45bf24b2","timestamp":"2025-11-06 22:41:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"267","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"3aa988c8fc0cf1288e5116054dc55d9c/16783154486625460415","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"41083cd9-43f7-4c32-9ef7-fa090241b4ef","timestamp":"2025-11-06 22:41:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"285","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"77cfac7e71b189f58e5116054dc55b52/14978375786285598044","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"71668bc0-8cc9-45f6-8d43-fb3781c87757","timestamp":"2025-11-06 22:41:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"270","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"9c879d04abce24418e5116054dc556be/3999691780754421508","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"bacfcb12-bd4c-4ca7-9923-a3e9fefab5ef","timestamp":"2025-11-06 22:41:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"270","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"b343be7a2fefe00a8e5116054dc55474/3840182293705580966","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"db649033-8226-40ca-bfed-e9d5fbed856c","timestamp":"2025-11-06 22:41:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"2e997e621ae10dbe8e5116054dc55477/9613468451158889409","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/api/news","referrerPolicy":"","url":"http://localhost:3000/api/news"},"requestId":"9f3666a3-1537-4501-8d08-0fe6297c5501","timestamp":"2025-11-06 22:41:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"268","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"3b544220212e81918e5116054dc55d99/4129016828076510998","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"4eacb0d4-78ac-453a-a7dc-f255a45d00f1","timestamp":"2025-11-06 22:41:28"}
+Error fetching RSS https://www.bloomberg.com/crypto/rss.xml: Error: Failed to fetch RSS: https://www.bloomberg.com/crypto/rss.xml
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/GercekKriptocuu/rss: Error: Failed to fetch RSS: https://nitter.poast.org/GercekKriptocuu/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/voltnewsdotxyz/rss: Error: Failed to fetch RSS: https://nitter.poast.org/voltnewsdotxyz/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/ICODrops/rss: Error: Failed to fetch RSS: https://nitter.poast.org/ICODrops/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/ICO_Analytics/rss: Error: Failed to fetch RSS: https://nitter.poast.org/ICO_Analytics/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"br, gzip, deflate","accept-language":"*","cache-control":"no-cache","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","pragma":"no-cache","sec-fetch-mode":"cors","user-agent":"node","via":"1.1 google","x-cloud-trace-context":"a12f1defcae55077bd14084766f4f7ba/12127429151309317309","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/api/telegram/auto-share","referrerPolicy":"","url":"http://localhost:3000/api/telegram/auto-share"},"requestId":"3a22065b-328e-421d-97ca-942bc2103084","timestamp":"2025-11-06 22:41:33"}
+
+🌐 Telegram Auto-Share API Called
+   Method: GET
+   Time: 06.11.2025 22:41:33
+
+========== TELEGRAM AUTO-SHARE START ==========
+🔍 Checking for new news to share...
+⏰ Time: 2025-11-06T22:41:33.546Z
+📡 Fetching news from CoinDesk...
+Error fetching Tree of Alpha news: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching AggrNews: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching Binance listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching OKX listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching Upbit listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching Bithumb listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+📰 Fetched 0 total news items
+⚠️ No news found to share
+========== TELEGRAM AUTO-SHARE END (NO NEWS) ==========
+
+
+📊 API Response: {
+  "success": true,
+  "shared": 0,
+  "errors": 0,
+  "totalShared": 0,
+  "details": "No news available",
+  "message": "0 yeni haber Telegram'a paylaşıldı",
+  "timestamp": "2025-11-06T22:41:33.555Z"
+}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"254","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"d4da3f857b505410f7ccd16a128155ad/1750693864594937640","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"f84039b6-8884-4d15-a008-5c01ae9b519a","timestamp":"2025-11-06 22:41:58"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"2e414fda0519de1839956eba471e31be/9374966756864284849","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/api/telegram/trigger","referrerPolicy":"","url":"http://localhost:3000/api/telegram/trigger"},"requestId":"210be732-e6d0-4345-b11b-9047504606a3","timestamp":"2025-11-06 22:42:28"}
+🔗 Triggering auto-share from: https://3000-invfvdb3yxb2qa93qf47j.e2b.app
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"254","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"8ec699238d66954839956eba471e34ff/16000775090663774309","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"48c7a7a7-ce5a-4555-b1e8-e4b93df2da4a","timestamp":"2025-11-06 22:42:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"267","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"6697ef9133f0ed1039956eba471e3ec2/16252993996348074664","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"9359b815-b828-47b1-a596-e0b0fa19d1dd","timestamp":"2025-11-06 22:42:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"109","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"575474dc21a36b4e39956eba471e3b81/4328012620264892534","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"70dd15bc-8996-4060-b658-50d7317f2daa","timestamp":"2025-11-06 22:42:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"268","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"37994e1210c2d76539956eba471e3f07/2312667154477065153","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"94044ea9-d27d-49be-9cec-9f8080778174","timestamp":"2025-11-06 22:42:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"270","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"29895f06b4efa0f239956eba471e3bc6/15105757555854975346","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"946fa299-40de-459e-ac87-ab2f4860e675","timestamp":"2025-11-06 22:42:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"285","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"2b1a9f3e6f183a3939956eba471e3885/6779193232270138065","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"c5979ce3-9b0d-4fca-8a37-e4f76cd6376c","timestamp":"2025-11-06 22:42:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"br, gzip, deflate","accept-language":"*","cache-control":"no-cache","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","pragma":"no-cache","sec-fetch-mode":"cors","user-agent":"node","via":"1.1 google","x-cloud-trace-context":"a2e4cc71dc6eada7d54c63fa8108d27b/10066779995872155495","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/api/telegram/auto-share","referrerPolicy":"","url":"http://localhost:3000/api/telegram/auto-share"},"requestId":"ff9030fc-a6a0-4878-a76e-68f9876f9832","timestamp":"2025-11-06 22:42:28"}
+
+🌐 Telegram Auto-Share API Called
+   Method: GET
+   Time: 06.11.2025 22:42:28
+
+========== TELEGRAM AUTO-SHARE START ==========
+🔍 Checking for new news to share...
+⏰ Time: 2025-11-06T22:42:28.597Z
+📡 Fetching news from CoinDesk...
+Error fetching Tree of Alpha news: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching AggrNews: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching Binance listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching OKX listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching Upbit listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching Bithumb listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+📰 Fetched 0 total news items
+⚠️ No news found to share
+========== TELEGRAM AUTO-SHARE END (NO NEWS) ==========
+
+
+📊 API Response: {
+  "success": true,
+  "shared": 0,
+  "errors": 0,
+  "totalShared": 0,
+  "details": "No news available",
+  "message": "0 yeni haber Telegram'a paylaşıldı",
+  "timestamp": "2025-11-06T22:42:28.609Z"
+}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"751b3e95d2ee169139956eba471e3c0b/13752461109332047886","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/api/news","referrerPolicy":"","url":"http://localhost:3000/api/news"},"requestId":"383c0d2c-ec06-4ff6-ab30-5f7f3f8b1c62","timestamp":"2025-11-06 22:42:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"270","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"eeee615face395c539956eba471e38ca/3696124559320959331","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"4fc821b6-da46-41bf-ba3d-abf078134d8a","timestamp":"2025-11-06 22:42:28"}
+Error fetching RSS https://www.bloomberg.com/crypto/rss.xml: Error: Failed to fetch RSS: https://www.bloomberg.com/crypto/rss.xml
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/GercekKriptocuu/rss: Error: Failed to fetch RSS: https://nitter.poast.org/GercekKriptocuu/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/ICODrops/rss: Error: Failed to fetch RSS: https://nitter.poast.org/ICODrops/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/voltnewsdotxyz/rss: Error: Failed to fetch RSS: https://nitter.poast.org/voltnewsdotxyz/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/ICO_Analytics/rss: Error: Failed to fetch RSS: https://nitter.poast.org/ICO_Analytics/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"254","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"25f3166e4d98bb357f1f55bc29a3fa8a/17881424857100562664","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"93aa45a6-6518-499e-8f1e-6115f67bdfd0","timestamp":"2025-11-06 22:42:58"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"216d032a2b10952c2e6008789f494b92/12568612286009555739","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/api/telegram/trigger","referrerPolicy":"","url":"http://localhost:3000/api/telegram/trigger"},"requestId":"a5781484-ebdf-4f9a-b012-8dcabcf69112","timestamp":"2025-11-06 22:43:28"}
+🔗 Triggering auto-share from: https://3000-invfvdb3yxb2qa93qf47j.e2b.app
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"254","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"a3978c1dedc540a52e6008789f494899/13901177367218032939","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"b44cded4-cd76-4a84-93a7-d6437c22dfec","timestamp":"2025-11-06 22:43:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"109","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"b866ba07788e48472e6008789f49495b/13847023291766313514","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"9045e277-a8ff-4ce8-bfe6-e19d3d0a51db","timestamp":"2025-11-06 22:43:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"267","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"e021f92f188013722e6008789f494369/11791300985655293128","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"e50b95ca-4cd2-4223-b06a-e30ec6b4119a","timestamp":"2025-11-06 22:43:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"270","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"686b1aa2262c2c2e2e6008789f494d77/9147641566809721747","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"231a5b88-ab14-458e-a4f4-a1ea1dc5b2e9","timestamp":"2025-11-06 22:43:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"285","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"1c6fc6d94eff38672e6008789f494070/4829492035113723844","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"849a502d-f6d0-447b-9adc-92b664691534","timestamp":"2025-11-06 22:43:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"270","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"05da54cbaba9c55b2e6008789f494e9a/14911151156228932420","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"da0bf92f-e3e3-497a-bd26-c3795c17894e","timestamp":"2025-11-06 22:43:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"cce857fdd01e3b4a2e6008789f494662/12929646814424682458","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/api/news","referrerPolicy":"","url":"http://localhost:3000/api/news"},"requestId":"b36d1857-7d13-419f-9d47-1febca44a953","timestamp":"2025-11-06 22:43:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"268","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"62163cf121bc2fff2e6008789f494785/3956489262382950404","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"27284b28-b533-45a4-972a-39d24c541cfa","timestamp":"2025-11-06 22:43:28"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"br, gzip, deflate","accept-language":"*","cache-control":"no-cache","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","pragma":"no-cache","sec-fetch-mode":"cors","user-agent":"node","via":"1.1 google","x-cloud-trace-context":"36c98575259a87e8da0fe07ed526f03e/17232718086045720898","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"GET","path":"/api/telegram/auto-share","referrerPolicy":"","url":"http://localhost:3000/api/telegram/auto-share"},"requestId":"98795284-a944-4c46-afc7-5410b207e675","timestamp":"2025-11-06 22:43:28"}
+
+🌐 Telegram Auto-Share API Called
+   Method: GET
+   Time: 06.11.2025 22:43:28
+
+========== TELEGRAM AUTO-SHARE START ==========
+🔍 Checking for new news to share...
+⏰ Time: 2025-11-06T22:43:28.807Z
+📡 Fetching news from CoinDesk...
+Error fetching Tree of Alpha news: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching AggrNews: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching Binance listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching OKX listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching Upbit listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+Error fetching Bithumb listings: TypeError: Failed to parse URL from /api/proxy
+    at <unknown> (.next/server/chunks/859.js:1:78066)
+    at K (.next/server/chunks/859.js:1:33711)
+    at <unknown> (.next/server/chunks/859.js:1:36653)
+    at <unknown> (.next/server/chunks/859.js:12:2289)
+    at a.with (.next/server/chunks/859.js:1:47142)
+    at u.with (.next/server/chunks/859.js:1:41389)
+    at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+    at a.startActiveSpan (.next/server/chunks/859.js:1:56889)
+    at <unknown> (.next/server/chunks/859.js:12:1797) {
+  [cause]: TypeError: Invalid URL
+      at <unknown> (.next/server/chunks/859.js:1:78066)
+      at K (.next/server/chunks/859.js:1:33711)
+      at <unknown> (.next/server/chunks/859.js:1:36653)
+      at <unknown> (.next/server/chunks/859.js:12:2289)
+      at a.with (.next/server/chunks/859.js:1:47142)
+      at u.with (.next/server/chunks/859.js:1:41389)
+      at u.startActiveSpan (.next/server/chunks/859.js:1:56355)
+      at a.startActiveSpan (.next/server/chunks/859.js:1:56889) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/proxy'
+  }
+}
+📰 Fetched 0 total news items
+⚠️ No news found to share
+========== TELEGRAM AUTO-SHARE END (NO NEWS) ==========
+
+
+📊 API Response: {
+  "success": true,
+  "shared": 0,
+  "errors": 0,
+  "totalShared": 0,
+  "details": "No news available",
+  "message": "0 yeni haber Telegram'a paylaşıldı",
+  "timestamp": "2025-11-06T22:43:28.815Z"
+}
+Error fetching RSS https://www.bloomberg.com/crypto/rss.xml: Error: Failed to fetch RSS: https://www.bloomberg.com/crypto/rss.xml
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/GercekKriptocuu/rss: Error: Failed to fetch RSS: https://nitter.poast.org/GercekKriptocuu/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/ICODrops/rss: Error: Failed to fetch RSS: https://nitter.poast.org/ICODrops/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/voltnewsdotxyz/rss: Error: Failed to fetch RSS: https://nitter.poast.org/voltnewsdotxyz/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+Error fetching RSS https://nitter.poast.org/ICO_Analytics/rss: Error: Failed to fetch RSS: https://nitter.poast.org/ICO_Analytics/rss
+    at f (.next/server/app/api/news/route.js:1:6918)
+    at async x (.next/server/app/api/news/route.js:1:8430)
+    at async w (.next/server/app/api/news/route.js:1:9408)
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"254","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"99f117c58b90bd9da328f415f6d9c9b4/4590231996755658327","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/proxy","referrerPolicy":"","url":"http://localhost:3000/api/proxy"},"requestId":"8c0ebce6-c78d-4a49-b9ef-e88f1f26f77d","timestamp":"2025-11-06 22:43:58"}
+{"level":"info","request":{"cookies":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.6","content-length":"145","content-type":"application/json","host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","origin":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app","priority":"u=1, i","referer":"https://3000-invfvdb3yxb2qa93qf47j.e2b.app/?t=1762468825770","sec-ch-ua":"\"Chromium\";v=\"142\", \"Brave\";v=\"142\", \"Not_A Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","sec-fetch-storage-access":"none","sec-gpc":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","via":"1.1 google","x-cloud-trace-context":"6290a28b7cdc011cbe6549794bc94494/14716408193568912931","x-forwarded-for":"::ffff:10.12.40.244","x-forwarded-host":"3000-invfvdb3yxb2qa93qf47j.e2b.app","x-forwarded-port":"3000","x-forwarded-proto":"http"},"method":"POST","path":"/api/github/export-full-project","referrerPolicy":"","url":"http://localhost:3000/api/github/export-full-project"},"requestId":"8e677ac3-21df-40d5-bdd4-851607d97053","timestamp":"2025-11-06 22:44:08"}
+🚀 GitHub export başlatılıyor...
+✅ Kullanıcı: Gercekkriptocu
+✅ Repo oluşturuldu: https://github.com/Gercekkriptocu/volt-crypto-news-0001
+📂 Dosyalar toplanıyor: /home/user/mini-app
+📂 Taranıyor: . (18 öğe)
+⏭️  Atlandı: .git
+⏭️  Atlandı: .gitignore
+⏭️  Atlandı: .next
+⏭️  Atlandı: .vercel
+📄 Dosya eklendi: README.md
+📄 Dosya eklendi: components.json
+📄 Dosya eklendi: next-env.d.ts
+📄 Dosya eklendi: next.config.mjs
